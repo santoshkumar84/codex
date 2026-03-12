@@ -1,0 +1,5 @@
+body { background: #f7f8fb; }
+.problem-card { transition: transform .15s ease; }
+.problem-card:hover { transform: translateY(-2px); }
+.CodeMirror { border: 1px solid #ddd; min-height: 360px; }
+.badge-difficulty { min-width: 70px; text-align: center; }
